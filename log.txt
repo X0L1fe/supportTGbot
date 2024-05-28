@@ -1,0 +1,10 @@
+INFO:aiogram.dispatcher:Start polling
+INFO:aiogram.dispatcher:Run polling for bot @RunnersRightBot id=6777241073 - '\U0001d4e1\U0001d4ca\U0001d4c3\U0001d4c3\U0001d452\U0001d4c7\U0001d4c8\U0001d4e1\U0001d4be\U0001d454\U0001d4bd\U0001d4c9'
+INFO:aiogram.event:Update id=701437212 is handled. Duration 296 ms by bot id=6777241073
+INFO:aiogram.event:Update id=701437213 is handled. Duration 93 ms by bot id=6777241073
+INFO:aiogram.event:Update id=701437214 is handled. Duration 77 ms by bot id=6777241073
+INFO:aiogram.event:Update id=701437215 is handled. Duration 77 ms by bot id=6777241073
+INFO:aiogram.event:Update id=701437216 is handled. Duration 78 ms by bot id=6777241073
+INFO:aiogram.event:Update id=701437217 is handled. Duration 109 ms by bot id=6777241073
+INFO:aiogram.event:Update id=701437218 is handled. Duration 77 ms by bot id=6777241073
+INFO:aiogram.event:Update id=701437219 is handled. Duration 139 ms by bot id=6777241073
